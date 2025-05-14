@@ -4,7 +4,7 @@
 baseurl:
 url: wxwy.github.io
 date_format: "ordinal"
-title: MangoGO的万象物语
+title: 万象·悟语
 subtitle: "公众号：MangoAI"
 description: "芒狗狗的个人博客"
 keywords: Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
@@ -89,10 +89,6 @@ navs:
   -
     href: /fragments/
     label: 片段
-
-  -
-    href: /wiki/
-    label: 维基
 
   -
     href: /links/
